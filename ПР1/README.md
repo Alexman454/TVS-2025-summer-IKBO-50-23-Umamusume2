@@ -18,7 +18,9 @@
 
 Запуск main.py:
 ```Bash
-py main.py config.csv 
+python main.py config.csv
+OR
+python3 main.py config.csv
 ```
 
 # Команды
